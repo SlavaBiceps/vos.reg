@@ -1,0 +1,3 @@
+C:/Users/slava/CLionProjects/vos.reg/f/cmake-build-debug/CMakeFiles/f.dir
+C:/Users/slava/CLionProjects/vos.reg/f/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/slava/CLionProjects/vos.reg/f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
